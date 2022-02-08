@@ -1,0 +1,4 @@
+#converting of km into cm
+Km=int(input(no of km))
+Cm=km*10000
+Print("distance in cm:",cm)
